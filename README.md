@@ -6,5 +6,5 @@ Notons que les différentes fonctions utilisés dans l'expression mathématique 
 De plus: abs(x) = |x| et sign(x) = |x|/x (pour x ∈ ℝ*)
 
 Les expressions mathématiques de toutes les lettres créées peuvent être vues dans Desmos via le lien suivant:
-https://www.desmos.com/calculator/orxencmmqb
+https://www.desmos.com/calculator/dtteta8owz
 
